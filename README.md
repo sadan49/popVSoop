@@ -1,21 +1,23 @@
 # popVSoop
-Demanstration of POP and OOP
-                  Procedure Oriented Programming                              Object Oriented Programming
-                  ---------------------------------------------------------------------------------------
-        
-Divided Into    In POP, program is divided into small parts                 In OOP, program is divided into parts called objects.
-                called functions.
-                
-Importance      In POP,Importance is not given to data but to               In OOP, Importance is given to the data rather than procedures 
-                                                                             or functions because it works as a real world.
-                functions as well as sequence of 
-                actions to be done.	
-                
-                
-Approach      POP follows Top Down approach.                              OOP follows Bottom Up approach.
 
-Access        POP does not have any access specifier                      OOP has access specifiers named Public, Private, Protected, etc.
-Specifiers
+        
+Divided Into    
+  In POP, program is divided into small parts called functions.
+  In OOP, program is divided into parts called objects.
+  
+Importance      
+    In POP,Importance is not given to data but to functions as well as sequence of actions to be done.	
+    In OOP, Importance is given to the data rather than procedures or functions because it works as a real world
+                
+                
+ Approach      
+   POP follows Top Down approach.                              
+   OOP follows Bottom Up approach.
+
+Access        
+  POP does not have any access specifier.
+  OOP has access specifiers named Public, Private, Protected, etc.
+    Specifiers
 
 Data Moving   
   In POP, Data can move freely from function to function in the system.
